@@ -1,0 +1,7 @@
+To create a vm in azure using terraform
+
+- Step 1: Create a resource group with location
+- Step 2: Create a virtual machine with storage type, OS image, and authentication type
+- Step 3: Create a virtual network, network interface, subnet, and public ip resources.
+- Step 4: Create a network interface security group asscoiation to associate network interface and network security group
+- Step 5: Create public ip 
